@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.rehamahmed.movie_app2.Detials">
+
+
+    <item android:id="@+id/highest_rated" android:title="highest_rated"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
